@@ -30,10 +30,10 @@ Bachelor of Technology (B.Tech) in Computer Science
 Ghaziabad, Delhi NCR | 2016–2020
 
 # Technical Skills:
-- Deep Learning: TensorFlow, PyTorch, Keras, OpenVINO
-- Computer Vision: CNNs, Object Detection, Image Segmentation, Image Classification
-- Deployment & Optimization: Cloud Deployment (GCP & AWS)
-- Programming: Python (NumPy, Pandas, Matplotlib), OpenCV
-- Tools: TensorFlow Serving, Docker, Git, ffmpeg
-- Proficient in deep learning for computer vision, audio classification, text-to-speech,
+- ###Deep Learning: TensorFlow, PyTorch, Keras, OpenVINO
+- ###Computer Vision: CNNs, Object Detection, Image Segmentation, Image Classification
+- ###Deployment & Optimization: Cloud Deployment (GCP & AWS)
+- ###Programming: Python (NumPy, Pandas, Matplotlib), OpenCV
+- ###Tools: TensorFlow Serving, Docker, Git, ffmpeg
+- ###Proficient in deep learning for computer vision, audio classification, text-to-speech,
    and natural language processing, with experience in cloud deployment and model optimization.
